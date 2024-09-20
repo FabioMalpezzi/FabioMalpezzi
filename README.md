@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FabioMalpezzi
 - 👀 I’m interested in developping code
-- 🌱 I’m currently learning c# e Javascript
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate with my friends
 - 📫 How to reach me at my email
 
